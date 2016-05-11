@@ -1,3 +1,5 @@
+#Heroic Naya
+
 2 Copperline Gorge
 1 Defiant Strike
 1 Dromoka's Command
