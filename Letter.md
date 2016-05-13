@@ -5,8 +5,8 @@ I was upstairs yesterday, and Ms. Hampton came in and was asking me about the F 
 
 He then proceeded to remove it from the gradebook, saying that he would put it in for 1/2 credit. I went up to my computer upstairs and looked at the version history, and found out that I had shared it with him on the 29th (I reverted it and It wasn't shared with him.) Then I went to email him about it, asking him why the email didnt get to him.
 
-#Nick Venner#
+##Nick Venner
 
-###720-722-6231###
+####720-722-6231
 
-###nick@vennerconsulting.com###
+####nick@vennerconsulting.com
